@@ -7,10 +7,8 @@ public class Affiliate
     public string Address { get; set; } = null!;
     public string? WebsiteUrl { get; set; } = null!;
     
-    public int ManagerId { get; set; }
     public int CompanyId { get; set; }
 
-    public User Manager { get; set; }
     public Company Company { get; set; }
     public ICollection<AffiliateWorkingDay>? WorkingDays { get; set; }
     public ICollection<Employee>? Employees { get; set; }

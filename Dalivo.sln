@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{076AFA63-28B1-44FB-A8F6-6643A4B94EEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrasructure", "Infrasructure\Infrasructure.csproj", "{68B2C737-4CB8-4735-AECD-928CBF63F445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{68B2C737-4CB8-4735-AECD-928CBF63F445}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{8478ADB2-4BBF-4D76-BF9A-8864EF41EC78}"
 EndProject

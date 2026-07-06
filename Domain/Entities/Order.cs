@@ -24,7 +24,7 @@ public class Order
     public int AffiliateId { get; set; }
 
     public Courier Courier { get; set; }
-    public User User { get; set; }
+    public User Customer { get; set; }
     public Affiliate Affiliate { get; set; }
     public Rating? Rating { get; set; }
     public ICollection<OrderProduct>? OrderProducts { get; set; }
