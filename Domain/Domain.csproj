@@ -7,11 +7,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Application\Application.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Controllers\" />
+      <Folder Include="CQRS\" />
+      <Folder Include="Entities\" />
+      <Folder Include="Services\" />
     </ItemGroup>
 
 </Project>
